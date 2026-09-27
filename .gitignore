@@ -1,0 +1,9 @@
+# Local scratch files used during design inspection/testing — not part of the site
+.tmp_venv/
+assets_ref/
+shots/
+shot.py
+check.py
+check2.py
+check3.py
+.claude/
